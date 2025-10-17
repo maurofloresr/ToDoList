@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "Comprar frutas y verduras",
+        "descripcion": "Ir al mercado y comprar manzanas, bananas y espinaca.",
+        "Estado": false
+    },
+    {
+        "titulo": "Leer 20 páginas del libro de Python",
+        "descripcion": "Seguir con el capítulo sobre estructuras de datos.",
+        "Estado": true
+    },
+    {
+        "titulo": "Entrenar en el gimnasio",
+        "descripcion": "Hacer rutina de fuerza y estiramientos.",
+        "Estado": false
+    },
+    {
+        "titulo": "Organizar archivos del proyecto",
+        "descripcion": "Limpiar carpetas y separar los archivos .py y .json.",
+        "Estado": false
+    },
+    {
+        "titulo": "Actualizar CV y portfolio",
+        "descripcion": "Agregar últimos proyectos y corregir textos.",
+        "Estado": true
+    }
+]
